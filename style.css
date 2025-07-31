@@ -141,8 +141,8 @@ a{
 
 .home-img .img-box .img-item{
 	position: relative;
-	width: 100%;
-	height: 100%;
+	width: 150%;
+	height: 150%;
 	background: #1f242d;
 	border-radius: 50%;
 	border: .1px solid #1f242d;
@@ -160,6 +160,8 @@ a{
 	width: 109%;
 	object-fit: cover;
 	mix-blend-mode: lighten;
+	margin: 0 auto;
+	margin-top: 20px;
 
 	
 }
