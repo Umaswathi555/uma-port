@@ -47,10 +47,12 @@
 }
 .certificate2-image{
 	width: 90%;
-	height: 200px;
+	height: auto;
 	object-fit: cover;
 	border-radius: 10px 10px 0 0;
 	gap: 20px;
+  display :block;
+  margin : 0 auto;
 
 }
 .certificate4-image{
@@ -59,6 +61,9 @@
 	object-fit: cover;
 	border-radius: 10px 10px 0 0;
 	gap: 20px;
+   display :block;
+  margin : 0 auto;
+
 
 }
 .skill-Container .skill-card ul li{
