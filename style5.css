@@ -171,7 +171,7 @@ a {
 /* Desktop-Specific Image Size */
 @media (min-width: 768px) {
   .home-img .img-box .img-item img {
-    position: absolute;
+  position: absolute;
 	top: 30px;
 	bottom: 50px;
 	display: block;
@@ -221,7 +221,7 @@ a {
   }
 
   .home-img .img-box .img-item img {
-    top: 0;
+    top: 50px;
     width: 100%;
     height: auto;
 	border-radius: 50%;
