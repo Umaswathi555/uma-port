@@ -164,22 +164,8 @@ a{
 
 	
 }
-/* For tablets and laptops */
- @media (min-width: 768px){
-	.home-img .img-box .img-item img {
-		width:250px;
-		height:250px;
-		margin-top: 30px;
-	}
-	}
-/*for mobile screens */
-@media (min-width: 767px){
-	.home-img .img-box .img-item img {
-		width: 100px;
-		height:100px;
-		margin-top: 20px;
-	}
-	}
+
+
 
 
 
