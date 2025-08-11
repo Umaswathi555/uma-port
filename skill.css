@@ -5,19 +5,19 @@
 	font-family: sans-serif;
 	font-size: 20px;
 	color: #00abf0;
-	background-color: #90E1B5 ;
+	background-color: #e8efeb ;
 	}
 .certificate-container{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	padding: 20px;
-	background-color: #90E1B5;
+	background-color: #f0f5f2;
 	border: 1px solid #ddd;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .certificate-card{
-	background-color: #4E525A;
+	background-color: #f0f2f6;
 	border: 1px solid #ddd;
 	padding: 20px;
 	margin: 20px;
